@@ -5,7 +5,6 @@
 </p>
 
 <p align=center> A Code Editor Idle for Autodesk Maya.</p>
----
 
  Preview
 -----------------------
@@ -14,7 +13,7 @@
  Supported Maya Versions
 -----------------------
 
- kata supports two major versions of Maya:
+ scripter supports two major versions of Maya:
 - 2022
 - 2023
 
@@ -27,7 +26,5 @@
 from scripter import main
 main.script_manager(area=None, show_outputs=True, show_workspaces=True, directory=None)
 ```
-
----
 
 scripter is developed and maintained by Gregoire Dehame.
