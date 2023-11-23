@@ -14,13 +14,16 @@
 -----------------------
 this script editor is highly inspired by the famous charcoalEditor and has been made for kata auto rigging system.
 this include: 
+
 - auto saving temp files
 - script execution
-- output ( python / mel )
+- output window ( python / mel )
 - syntax highlighting ( output and input )
-- auto-complete
+- multiple workspaces
+- code auto-complete
 - colors user preferences
 - support both maya/mel
+  
 the application can boot on a specific directory who allowed multi artists to work on the same location/project
 
 
